@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 💻 Computer Engineering Student at Karabuk University<br>📫 Contact Me | tomtolgahan@gmail.com<br><br>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"><br><br>
+
 
 ## 🌐 Socials:
 
